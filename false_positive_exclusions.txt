@@ -22,7 +22,6 @@ ObservableHQ
 Odysee
 PCGamer
 Pornhub
-Pychess
 Rarible
 Realmeye
 Reddit
@@ -33,6 +32,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
