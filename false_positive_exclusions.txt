@@ -13,6 +13,7 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -22,12 +23,13 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -47,6 +49,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+fl
 hunting
 interpals
 mercadolivre
