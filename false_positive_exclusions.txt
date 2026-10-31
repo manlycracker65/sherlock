@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -41,10 +40,10 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-hunting
 interpals
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
