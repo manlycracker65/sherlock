@@ -2,6 +2,7 @@ APClips
 Airliners
 AniWorld
 Apple Developer
+Apple Discussions
 Archive.org
 Bandcamp
 Blogger
@@ -42,6 +43,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
