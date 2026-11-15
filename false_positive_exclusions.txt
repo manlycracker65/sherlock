@@ -3,12 +3,12 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+CGTrader
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -24,7 +24,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -33,17 +32,16 @@ Spotify
 Trakt
 TryHackMe
 Velomania
-Venmo
 Vero
 YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
