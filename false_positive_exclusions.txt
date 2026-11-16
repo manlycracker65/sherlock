@@ -3,7 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-CGTrader
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -15,7 +15,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -29,7 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -37,11 +35,11 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
