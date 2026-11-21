@@ -1,8 +1,8 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Carbonmade
 Chatujme.cz
 Codolio
 DeviantArt
@@ -10,11 +10,11 @@ Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
-HackerRank
 Hashnode
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
