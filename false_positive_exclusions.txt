@@ -14,7 +14,6 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-LiveJournal
 ObservableHQ
 Odysee
 PCGamer
