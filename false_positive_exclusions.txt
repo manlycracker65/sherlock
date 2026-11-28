@@ -13,7 +13,6 @@ GeeksforGeeks
 HackerNews
 Hashnode
 Hubski
-Image Fap
 Instapaper
 Linktree
 Minecraft
@@ -30,13 +29,11 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
 Wikipedia
 YandexMusic
-authorSTREAM
 dailykos
 fixya
 hunting
@@ -46,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
